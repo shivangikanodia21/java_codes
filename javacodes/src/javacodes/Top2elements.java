@@ -40,6 +40,8 @@ public class Top2elements {
 		System.out.println(array1);
 		
 		System.out.println("max1" + max1 + "max2" +max2);
+		
+		System.out.println(" HELLO");
 	
 		
 		/*for (int i=0;i<array1.size();i++)
