@@ -47,6 +47,7 @@ public class trimspaces {
 		 System.out.println(newstring);
 		 
 		 System.out.println("hello");
+		 System.out.println("hello1");
 	}
 
 }
